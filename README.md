@@ -1,3 +1,4 @@
+Ссылка на просмотр https://ndevgit.github.io/stickerOtter/<br>
 Ширина 1440px<br>
 Методология БЭМ<br>
 Препроцессор SCSS и разделение на компоненты<br>
