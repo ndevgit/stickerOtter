@@ -1,0 +1,23 @@
+.footer {
+  padding: 20px 0;
+  background-color: $footerbg;
+}
+
+.footer-header {
+  background-color: $background-title;
+  margin-bottom: 20px;
+  padding: 10px;
+  border-radius: 3px;
+}
+
+.footer-header__title {
+  font-size: 30px;
+  transform: skewX(340deg);
+  text-transform: uppercase;
+}
+
+.footer-map {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
